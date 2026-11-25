@@ -1,0 +1,34 @@
+{
+  "name": "procureflow-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.12.0"
+  },
+  "scripts": {
+    "demo": "node demo.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src app tests demo.ts",
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "zod": "^4.1.0",
+    "decimal.js": "^10.6.0",
+    "next": "^16.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "vitest": "^4.0.0",
+    "eslint": "^9.39.0",
+    "typescript-eslint": "^8.50.0"
+  }
+}

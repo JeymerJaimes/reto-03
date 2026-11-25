@@ -1,0 +1,10 @@
+De: dgarcia@periferia-ficticia.com
+Para: natalia.ríos@periferia-ficticia.com
+Fecha: 2026-08-26T18:45:00-05:00
+Asunto: RE: Solicitud de orden de compra SOL-004
+
+Aprobado por 25 millones según la solicitud.
+
+Diego García
+Director de Tecnología
+sha256: f2c21f5de968da8d6a480508f9926f535fcdd9d8cfb75bdf96859cd3a8447882

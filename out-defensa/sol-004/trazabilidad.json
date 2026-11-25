@@ -1,0 +1,213 @@
+{
+  "payload_hash": "5c29d3a9a8052f425f5f3a06336bf3fad894c98ff2d6ac29419e876307455e95",
+  "campos": {
+    "referencia.solicitud_id": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/solicitud_id",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "referencia.correo_id": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/correo.json",
+        "campo": "/id",
+        "sha256": "86d0b7823b1cbd02f7d0c256a20cf667efbd1dc2e28d6ca563acd4d61e041942"
+      }
+    ],
+    "referencia.cotizacion_ref": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/cotizacion.txt",
+        "campo": "COTIZACIÓN",
+        "sha256": "861ef01d9a8ce1da18d316d22a1112bf0437efb0e544aa9bc3c5f2cc8e5319fc"
+      }
+    ],
+    "sociedad": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "organizacion_compras": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "moneda": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/moneda",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "proveedor.nombre": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/1/nombre",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "proveedor.nit": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/1/nit",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "proveedor.codigo_sap": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/1/codigo_sap",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "condiciones_pago": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/condiciones_pago",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "aprobador.email": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/de",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      }
+    ],
+    "aprobador.fecha_aprobacion": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/fecha",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      }
+    ],
+    "aprobador.evidencia_sha256": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/de",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/para",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/fecha",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/asunto",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/aprobacion.json",
+        "campo": "/cuerpo",
+        "sha256": "2e4b0d157ca490f509bd9e7b0eb8830b293b4276df0b5a55b9547ee23651cb1c"
+      }
+    ],
+    "posiciones.0.descripcion": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/descripcion",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "posiciones.0.cantidad": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/cantidad",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "posiciones.0.centro_costo": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/centro_costo",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "posiciones.0.subarea": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/subarea",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "posiciones.0.unidad": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/descripcion",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/cotizacion.txt",
+        "campo": "texto íntegro",
+        "sha256": "861ef01d9a8ce1da18d316d22a1112bf0437efb0e544aa9bc3c5f2cc8e5319fc"
+      }
+    ],
+    "posiciones.0.numero": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "posiciones.0.precio_unitario": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/valor_unitario",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "posiciones.0.indicador_iva": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/indicador_iva",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      }
+    ],
+    "excepciones.0.codigo": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/valor_total",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/cotizacion.txt",
+        "campo": "TOTAL (IVA incluido):",
+        "sha256": "861ef01d9a8ce1da18d316d22a1112bf0437efb0e544aa9bc3c5f2cc8e5319fc"
+      }
+    ],
+    "excepciones.0.detalle": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/valor_total",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/cotizacion.txt",
+        "campo": "TOTAL (IVA incluido):",
+        "sha256": "861ef01d9a8ce1da18d316d22a1112bf0437efb0e544aa9bc3c5f2cc8e5319fc"
+      }
+    ],
+    "excepciones.0.confirmado_por": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/solicitud.json",
+        "campo": "/valor_total",
+        "sha256": "02a1556758c96691a9cc97d65f54c5e0d7deaabc0c1989324c5a8d2ed1a5698e"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-004/cotizacion.txt",
+        "campo": "TOTAL (IVA incluido):",
+        "sha256": "861ef01d9a8ce1da18d316d22a1112bf0437efb0e544aa9bc3c5f2cc8e5319fc"
+      }
+    ]
+  }
+}

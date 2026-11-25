@@ -1,0 +1,177 @@
+{
+  "payload_hash": "79170ca3fd9d6d3febfa8bf97a4f46c7e356bd6c67a459c150dcec568ef6a82b",
+  "campos": {
+    "referencia.solicitud_id": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/solicitud_id",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "referencia.correo_id": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/correo.json",
+        "campo": "/id",
+        "sha256": "158fe5481d01f797da6b619e9d1b4fe452a7ec8f3c5087c81f2b6dbe029e27a1"
+      }
+    ],
+    "referencia.cotizacion_ref": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/cotizacion.txt",
+        "campo": "COTIZACIÓN",
+        "sha256": "fcdb1f0f7120142ade085592d8102e812b1c96e14e8e3df923bfc8cb190c941d"
+      }
+    ],
+    "sociedad": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "organizacion_compras": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "moneda": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/moneda",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "proveedor.nombre": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/0/nombre",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "proveedor.nit": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/0/nit",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "proveedor.codigo_sap": [
+      {
+        "ruta": "fixtures/reto-03/maestros/proveedores.json",
+        "campo": "/0/codigo_sap",
+        "sha256": "f3ecc1e848a96c0b97c808aa944999292ed4550368e93bc132a9521a83e24716"
+      }
+    ],
+    "condiciones_pago": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/condiciones_pago",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "aprobador.email": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/de",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      }
+    ],
+    "aprobador.fecha_aprobacion": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/fecha",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      }
+    ],
+    "aprobador.evidencia_sha256": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/de",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/para",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/fecha",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/asunto",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/aprobacion.json",
+        "campo": "/cuerpo",
+        "sha256": "e0ce3fb15e45f2959f606f21e134c0ee478c55ae6ac11d1e03a63bdb8d1cf14d"
+      }
+    ],
+    "posiciones.0.descripcion": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/descripcion",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "posiciones.0.cantidad": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/cantidad",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "posiciones.0.centro_costo": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/centro_costo",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "posiciones.0.subarea": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/subarea",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "posiciones.0.unidad": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/descripcion",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      },
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/cotizacion.txt",
+        "campo": "texto íntegro",
+        "sha256": "fcdb1f0f7120142ade085592d8102e812b1c96e14e8e3df923bfc8cb190c941d"
+      }
+    ],
+    "posiciones.0.numero": [
+      {
+        "ruta": "PRD.md",
+        "campo": "§7.4",
+        "sha256": "0ea5e972a02efe80a7789b138e8e1010b2885f2020ea43a998d7ada9311b102e"
+      }
+    ],
+    "posiciones.0.precio_unitario": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/valor_unitario",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ],
+    "posiciones.0.indicador_iva": [
+      {
+        "ruta": "fixtures/reto-03/solicitudes/sol-001/solicitud.json",
+        "campo": "/indicador_iva",
+        "sha256": "33d8162e3581944eb93bd5d6416641c44e622380651448d7e6482ea7f2aad073"
+      }
+    ]
+  }
+}

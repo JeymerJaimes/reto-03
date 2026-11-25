@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.demo/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+.pnpm-store/
+next-env.d.ts

@@ -1,0 +1,1 @@
+La solicitud aporta el valor y el centro imputado. El correo del líder acredita una aprobación que debe verificarse contra los maestros del centro. Una excepción confirmable se presenta a la analista con sus datos y su procedencia. La factura puede evidenciar una compra retroactiva aunque exista cotización. La aplicación expone todos los resultados del motor RC1–RC10.

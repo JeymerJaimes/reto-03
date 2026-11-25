@@ -1,0 +1,10 @@
+De: mlopez@periferia-ficticia.com
+Para: juan.camargo@periferia-ficticia.com
+Fecha: 2026-08-21T10:02:00-05:00
+Asunto: RE: Solicitud de orden de compra SOL-001
+
+Aprobado, proceder con la orden de compra.
+
+Mariana López
+Gerente de Tecnología
+sha256: c07ae6426133178cb0bfe83753e232fffab3886a67723b7a61c39cf92a0915ab
